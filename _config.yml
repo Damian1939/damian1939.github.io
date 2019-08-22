@@ -6,7 +6,7 @@ description: > # this means to ignore newlines until "baseurl:"
 theme: minima
 
 # social links
-twitter_username: notarealusername908230
-github_username:  guessifthisisreal908230
+twitter_username: notarealusername
+github_username:  guessifthisisreal
 
-show_excerpts: false
+show_excerpts: true
