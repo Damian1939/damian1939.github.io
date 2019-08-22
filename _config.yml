@@ -1,0 +1,12 @@
+title: Karen's Website
+author: Grumpy Person (Karen)
+email: notarealemail908230@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+  A website dedicated to somebody who is very grumpy.
+theme: minima
+
+# social links
+twitter_username: notarealusername908230
+github_username:  guessifthisisreal908230
+
+show_excerpts: false
